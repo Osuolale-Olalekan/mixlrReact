@@ -25,7 +25,7 @@ const Body2 = () => {
                             <div className="ww">
                                 <img src="./mixlr images/icon2.svg" alt="" />
 
-                                <h4>One link, two functions</h4>
+                                <h4>Top level listener stats</h4>
                                 <p className="parag">
                                     Keep informed on how well your broadcasts are performing with end-of-broadcast and weekly stats emails. Get numbers on your unique listeners, chat messages and hearts.
                                 </p>
@@ -41,7 +41,7 @@ const Body2 = () => {
                             <div className="ww">
                                 <img src="./mixlr images/icon3.svg" alt="" />
 
-                                <h4>One link, two functions</h4>
+                                <h4>Private access to your channel</h4>
                                 <p className="parag">
                                     Decide who can access your channel with access settings enabled. Remain private indefinitely or create one-off exclusive audio content for select listeners only.
                                 </p>
@@ -50,7 +50,7 @@ const Body2 = () => {
                             <div className="ww">
                                 <img src="./mixlr images/icon4.svg" alt="" />
 
-                                <h4>One link, two functions</h4>
+                                <h4>Detailed listener metrics</h4>
                                 <p className="parag">
                                     See how many unique listeners connected, how long for, and which countries or cities they tuned in from. View your listener stats over any selectable time period, and export the most relevant data as an easy to use spreadsheet file.
                                 </p>
@@ -66,7 +66,7 @@ const Body2 = () => {
                             <div className="ww">
                                 <img src="./mixlr images/icon5.svg" alt="" />
 
-                                <h4>One link, two functions</h4>
+                                <h4>Optimal audio quality</h4>
                                 <p className="parag">
                                     Control audio quality as needed to suit bandwidth restrictions or to match the quality required for your type of content. With the desktop app, you can switch between low, standard, and high quality audio even while broadcasting.
                                 </p>
@@ -75,7 +75,7 @@ const Body2 = () => {
                             <div className="ww">
                                 <img src="./mixlr images/icon6.svg" alt="" />
 
-                                <h4>One link, two functions</h4>
+                                <h4>Go white label</h4>
                                 <p className="parag">
                                     With a unique livestream URL, you're free to build your own website, app or player around your live audio. We encode your livestream URL in mp3 format at a quality of 128kbps.
                                 </p>

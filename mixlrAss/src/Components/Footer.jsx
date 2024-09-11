@@ -8,7 +8,7 @@ const Footer = () => {
             <section>
                 <div className='foot_des'>
 
-                    <img src="./mixlr images/Screenshot 2024-05-30 092842.png" alt="" />
+                    <img className='mixlr_svg_logo' src="./mixlr images/Screenshot 2024-05-30 092842.png" alt="" />
 
                     <div className='social_link'>
                         <a href=""> <i class="fa-brands fa-facebook-f"></i></a>
